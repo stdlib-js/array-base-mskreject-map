@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-mskreject-map",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Apply a mask to a provided input array and map the unmasked values according to a callback function.",
   "license": "Apache-2.0",
   "author": {
